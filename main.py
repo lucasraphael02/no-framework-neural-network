@@ -4,9 +4,9 @@ import json
 import os
 import tensorflow as tf
 import numpy as np
-from NeuralNetwork import NeuralNetwork
-from Layer import Layer
-from Perceptron import Perceptron
+from back.NeuralNetwork import NeuralNetwork
+from back.Layer import Layer
+from back.Perceptron import Perceptron
 
 activation_functions = []
 # Abrir o arquivo de configuração json e extrair as funções de ativação das camadas densas
