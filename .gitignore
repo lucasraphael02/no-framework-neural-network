@@ -1,0 +1,9 @@
+\venv
+\__pycache__
+\modelo_extraido
+*.pyc
+*.csv
+*.xlsx
+*.json
+*.h5
+*.keras
